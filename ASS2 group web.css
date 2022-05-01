@@ -25,7 +25,7 @@ h2,h1,h3,h4 {
 .header {
     padding: 80px;
     text-align: center;
-    background-image: url("shutterstock_1159272958-604x270.jpg");
+    background-image: url("background.png");
     background-size:1500px 300px;
     color: white;
 }
